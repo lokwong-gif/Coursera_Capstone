@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# This is IBM Applied Science Capstone project repo.
